@@ -1,0 +1,27 @@
+<application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="MOVE_NAMESPACE_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="http://jira.worldfirst.local">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfebdfd9dfdedfd8dfc5dfc6dfc5df9bdf9edf9bdf9a</password>
+      <option name="jiraVersion" value="7.0.5" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="Sprint in openSprints() AND project in (&quot;World First CMS&quot;, WFO, WFCC, WFCCS, &quot;World First Common Library&quot;, Vouchers, CLAFX, &quot;Behat Shared Library&quot;, &quot;World First Registration&quot;, &quot;CI Controller API&quot;, CHSL, CASL, SR,LAPI,LSPC) OR project = WFPAPI AND component = Client ORDER BY Rank ASC" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>adam.neale</username>
+    </JIRA>
+  </component>
+</application>

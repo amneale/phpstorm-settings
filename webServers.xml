@@ -1,0 +1,24 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28f1e558-0a62-40c3-a021-b4aaaf208642" name="universal" url="https://universal.vagrant.worldfirst.local/uk/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7f2b0161-8be9-428c-b2d2-272f928b6036" name="registration" url="https://wfcms-registration.adndevel.worldfirst.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6c877eb5-eb09-4086-bef1-7f395ab413c7" name="api" url="https://api.adndevel.worldfirst.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4534e938-5387-46fa-8323-8f93e7db2047" name="wfo" url="https://wfo.adndevel.worldfirst.local">
+        <fileTransfer mountedRoot="/Volumes/www/wfo" accessType="MOUNT" />
+      </webServer>
+      <webServer id="1a6f37fb-73f5-486b-a95c-ffb0cb1fcab9" name="trading" url="https://trading.vagrant.worldfirst.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f1895fbe-5ace-4e1d-9231-f05f6fbedcd7" name="client-communications" url="http://client-communications.vagrant.worldfirst.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

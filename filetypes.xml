@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <removed_mapping ext="html" type="HTML" />
+      <mapping pattern="config.ini-*" type="Ini" />
+      <mapping ext="ini-local" type="PLAIN_TEXT" />
+      <mapping ext="html" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
