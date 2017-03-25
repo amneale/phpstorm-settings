@@ -6,7 +6,9 @@
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ini-local" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
+      <mapping pattern="*.yml.dist" type="YAML" />
     </extensionMap>
   </component>
 </application>
