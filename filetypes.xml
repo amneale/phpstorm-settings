@@ -3,7 +3,7 @@
     <extensionMap>
       <removed_mapping ext="html" type="HTML" />
       <mapping pattern="config.ini-*" type="Ini" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PHP" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ini-local" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
