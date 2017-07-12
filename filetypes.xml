@@ -5,10 +5,11 @@
       <mapping pattern="config.ini-*" type="Ini" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="requesting_zengin_beneficiary_information" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="ini-local" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
     </extensionMap>
   </component>
