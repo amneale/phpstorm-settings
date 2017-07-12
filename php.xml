@@ -1048,7 +1048,7 @@
             <configuration_option name="odbc.max_links" value="-1" />
             <configuration_option name="odbc.max_persistent" value="-1" />
             <configuration_option name="open_basedir" value="" />
-            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.cafile" value="/etc/ssl/cert.pem" />
             <configuration_option name="openssl.capath" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
