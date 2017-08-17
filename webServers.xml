@@ -13,9 +13,6 @@
       <webServer id="4534e938-5387-46fa-8323-8f93e7db2047" name="wfo" url="https://wfo.adndevel.worldfirst.local">
         <fileTransfer mountedRoot="/Volumes/www/wfo" accessType="MOUNT" />
       </webServer>
-      <webServer id="1a6f37fb-73f5-486b-a95c-ffb0cb1fcab9" name="trading" url="https://trading.vagrant.worldfirst.local">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="f1895fbe-5ace-4e1d-9231-f05f6fbedcd7" name="client-communications" url="http://client-communications.vagrant.worldfirst.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
